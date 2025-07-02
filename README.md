@@ -11,7 +11,7 @@ This project compares six sorting algorithms in C++ on a list of 100,000 element
 | Algorithm      | Time (seconds)  |
 |----------------|------------------|
 | QuickSort      | 0.021053         |
-| MergeSort      | 0.023 (predicted)|
+| MergeSort      | 0.023 |
 | InsertionSort  | 8.8368           |
 | SelectionSort  | 11.8582          |
 | ExChangeSort   | 31.4496          |
